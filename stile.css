@@ -48,4 +48,25 @@
 }
 .tabella3{
     background-color: rgba(43, 215, 238 , 0.5);
+    font-weight: bold;
+}
+.testo3{
+    color: gray;    
+}
+.foto1{
+    padding: 7px;
+    background-image: url(../html-css-booleaner/img/img/monitor.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+}
+#descrizionefoto{
+    color: white;
+    font-size: 25px;
+    margin-left: 10px;
+}
+.foto2{
+    padding: 7px;
+    background-image: url(../html-css-booleaner/img/img/graph.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
 }
