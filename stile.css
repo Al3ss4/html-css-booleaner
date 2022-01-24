@@ -1,0 +1,15 @@
+#box
+{
+    background-image:url(../html-css-booleaner/img/img/pattern.png);
+    height: 70px;
+    background-color:rgba(0, 132, 255, 0.575);
+    background-size: 300px;
+
+
+}
+.logo{
+    width: 150px;
+    margin-left: 5px;
+    margin-top: 30px;
+    
+}
