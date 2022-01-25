@@ -14,7 +14,8 @@
     
 }
 #container{
-    margin: 0 400px;
+    margin:auto;
+    width: 1200px;
 }
 .testo{
     margin-top: -20px;
@@ -35,6 +36,9 @@
 }
 .lista{
     margin-left: -25px;
+}
+table{
+    border-collapse: collapse;
 }
 .tabella1{
     background-color: rgb(43, 29, 238);
