@@ -1,6 +1,6 @@
 #box
 {
-    background-image:url(../html-css-booleaner/img/img/pattern.png);
+    background-image:url(img/pattern.png);
     height: 70px;
     background-color:rgba(0, 132, 255, 0.575);
     background-size: 300px;
@@ -59,7 +59,7 @@ table{
 }
 .foto1{
     padding: 7px;
-    background-image: url(../html-css-booleaner/img/img/monitor.jpg);
+    background-image: url(img/monitor.jpg);
     height: 200px;
     background-repeat: no-repeat;
 }
@@ -70,7 +70,7 @@ table{
 }
 .foto2{
     padding: 7px;
-    background-image: url(../html-css-booleaner/img/img/graph.jpg);
+    background-image: url(img/graph.jpg);
     height: 200px;
     background-repeat: no-repeat;
 }
